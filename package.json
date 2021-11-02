@@ -1,0 +1,17 @@
+{
+	"name": "playlist-downloder",
+	"version": "1.0.0",
+	"description": "Full YouTube Playlist Downloder",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"author": "harikanani",
+	"license": "MIT",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"express": "^4.17.1",
+		"googleapis": "^89.0.0",
+		"ytdl-core": "^4.9.1"
+	}
+}

@@ -1,0 +1,6 @@
+node_modules/
+.env
+Playlist.js
+temp.js
+secrets.json
+videos/
